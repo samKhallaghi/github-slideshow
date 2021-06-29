@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Soon I will add DL-based models for review.
 Use the left arrow to go back!
